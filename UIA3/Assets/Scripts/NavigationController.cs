@@ -39,7 +39,7 @@ public class NavigationController : MonoBehaviour {
 		PlaylistsTitle.SetActive(false);
 		PlaylistDetailTitle.SetActive(false);
 		ArtistTitle.SetActive(false);
-		SettingsContent.SetActive(false);
+		SettingsTitle.SetActive(false);
 		if (top != null)
 		{
 			top.SetActive(true);
